@@ -2,4 +2,7 @@
 1# index.html is fail
 	Results : fail
 	Points : 10
-	
+2# style.css is fail
+	Results : fail 
+	Points  : 10
+
