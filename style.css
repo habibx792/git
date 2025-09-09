@@ -1,7 +1,6 @@
-
-bodY{
-	color:red;
+body{
+	font-family: 'Courier New', Courier, monospace;
 }
 h1{
-	font-size:40px;
+	color: blueviolet;
 }
