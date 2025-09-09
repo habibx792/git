@@ -1,0 +1,7 @@
+========================================================================================= Budger Details ====================================================================================
+Title of Project : How to Make Web Tech Fast and Ai 
+Manger : Ghulam Habib.X
+Desctiption : 
+	This is mile stone project in Ai and Web combine in this era 
+	by this Project we Will become a better software Engineer
+	
